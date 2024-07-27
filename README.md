@@ -30,7 +30,7 @@
 * Top-tier publications per continent - Percentages of researcher publication pairs.
 
 
-|                     | Africa Percentages | SA Percentages    | NA+Asia Percentages | Oceania Percentages | Europe Percentages |
+|                     | Africa             | South America     | North America & Asia| Oceania             | Europe             |
 |---------------------|--------------------|-------------------|---------------------|---------------------|--------------------|
 | 2022                | 0.0741316012425868 | 0.14120304998588  | 78.9007342558599    | 3.61479807963852    | 17.2691330132731   |
 | 2021                | 0.0312185646397725 | 0.28790454056679  | 75.8749869922647    | 2.78538971174859    | 21.0205001907801   |
