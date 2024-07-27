@@ -47,7 +47,7 @@
   
 * African publications per region - Number of Publications from the refined set.
 
-|                  | northern_countries | southern_countries | west_countries | east_countries | central_countries | Total per Year |
+|                  | Northern Region    | Southern Region    | Western Region | Eastern Region | Central Region    | Total per Year |
 |------------------|--------------------|--------------------|----------------|----------------|-------------------|----------------|
 | 2022             | 1379               | 188                | 173            | 221            | 17                | 1978           |
 | 2021             | 1212               | 185                | 121            | 122            | 23                | 1663           |
