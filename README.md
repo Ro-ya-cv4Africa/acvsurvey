@@ -7,6 +7,30 @@
 * Classification of the publications abstracts to dataset or not dataset paper, in addition to the data of the manual classification of each dataset.
 * Analysis of the data that was used to reproduce the plots in the paper
 
+## Summary of results
+* Top-tier publications per continent - Numbers of researcher-publication pairs for around 45K publications (CVPR, ICCV, ECCV, MICCAI, Neurips, ICLR, ICML, IJCV, TPAMI)
+|                     | North America | South America | Africa | Asia  | Europe | Oceania | Total Per Year |
+|---------------------|---------------|---------------|--------|-------|--------|---------|----------------|
+| 2022                | 7498          | 40            | 21     | 14853 | 4892   | 1024    | 28328          |
+| 2021                | 9926          | 83            | 9      | 11948 | 6060   | 803     | 28829          |
+| 2020                | 11073         | 69            | 38     | 10431 | 5962   | 796     | 28369          |
+| 2019                | 9120          | 32            | 8      | 7622  | 4860   | 611     | 22253          |
+| 2018                | 8620          | 48            | 11     | 4925  | 4318   | 491     | 18413          |
+| 2017                | 6058          | 21            | 3      | 3205  | 3319   | 378     | 12984          |
+| 2016                | 4487          | 21            | 5      | 2276  | 2432   | 299     | 9520           |
+| 2015                | 3813          | 39            | 2      | 2183  | 2358   | 284     | 8679           |
+| 2014                | 3486          | 21            | 9      | 1585  | 2006   | 260     | 7367           |
+| 2013                | 3461          | 27            | 2      | 1713  | 2297   | 267     | 7767           |
+| 2012                | 3030          | 13            | 7      | 1402  | 2095   | 164     | 6711           |
+|---------------------|---------------|---------------|--------|-------|--------|---------|----------------|
+| Total per continent | 70572         | 414           | 115    | 62143 | 40599  | 5377    | 179220         |
+  
+* Top-tier publications per continent - Percentages of researcher publication pairs.
+
+  
+* African publications per region.
+
+  
 ## Verification Phase - Rejected Examples
 * Authorship issues:
     * Typo in the country Swaziland instead of Switzerland:
