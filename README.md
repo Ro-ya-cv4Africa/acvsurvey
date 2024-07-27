@@ -9,6 +9,8 @@
 
 ## Summary of results
 * Top-tier publications per continent - Numbers of researcher-publication pairs for around 45K publications (CVPR, ICCV, ECCV, MICCAI, Neurips, ICLR, ICML, IJCV, TPAMI)
+
+
 |                     | North America | South America | Africa | Asia  | Europe | Oceania | Total Per Year |
 |---------------------|---------------|---------------|--------|-------|--------|---------|----------------|
 | 2022                | 7498          | 40            | 21     | 14853 | 4892   | 1024    | 28328          |
@@ -23,6 +25,7 @@
 | 2013                | 3461          | 27            | 2      | 1713  | 2297   | 267     | 7767           |
 | 2012                | 3030          | 13            | 7      | 1402  | 2095   | 164     | 6711           |
 | Total per continent | 70572         | 414           | 115    | 62143 | 40599  | 5377    | 179220         |
+
   
 * Top-tier publications per continent - Percentages of researcher publication pairs.
 
