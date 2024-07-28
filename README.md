@@ -45,7 +45,7 @@
 | 2012                | 0.104306362688124  | 0.193711816420802 | 66.0408284905379    | 2.44374906869319    | 31.21740426166     |
 | Total per continent | 0.0641669456533869 | 0.231001004352193 | 74.0514451512108    | 3.00022318937619    | 22.6531637094074   |
   
-* African publications per region - Number of Publications from the refined set.
+* African publications per region - Number of Publications from the refined set. While refined set has 12155 pubs only, few publications were counted twice if belongs to two regions & 2023 publications were ignored.
 
 |                  | Northern Region    | Southern Region    | Western Region | Eastern Region | Central Region    | Total per Year |
 |------------------|--------------------|--------------------|----------------|----------------|-------------------|----------------|
