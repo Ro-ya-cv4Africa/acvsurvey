@@ -1,11 +1,12 @@
 # African Computer Vision Survey
+[Paper](https://arxiv.org/abs/2401.11617)
 
 ## Work Phases
 * Search queries generation
 * Data collection for the three sets: full, refined, and toptier set, in addition to the authors metadata for the refined and toptier set.
 * Verification of the refined set based on the authors and topics.
-* Classification of the publications abstracts to dataset or not dataset paper, in addition to the data of the manual classification of each dataset.
-* Analysis of the data that was used to reproduce the plots in the paper
+* Classification of the publications abstracts to dataset or not dataset paper, in addition to the manual classification of each dataset.
+* Analysis of the data that can be used to reproduce the plots in the paper
 
 ## Summary of results
 * Top-tier publications per continent - Numbers of researcher-publication pairs for around 45K publications (CVPR, ICCV, ECCV, MICCAI, Neurips, ICLR, ICML, IJCV, TPAMI)
@@ -45,7 +46,7 @@
 | 2012                | 0.104306362688124  | 0.193711816420802 | 66.0408284905379    | 2.44374906869319    | 31.21740426166     |
 | Total per continent | 0.0641669456533869 | 0.231001004352193 | 74.0514451512108    | 3.00022318937619    | 22.6531637094074   |
   
-* African publications per region - Number of Publications from the refined set. While refined set has 12155 pubs only, few publications were counted twice if belongs to two regions & 2023 publications were ignored.
+* African publications per region - Number of Publications from the refined set. While refined set has 12155 publications only, few publications were counted twice if belongs to two regions & 2023 publications were ignored.
 
 |                  | Northern Region    | Southern Region    | Western Region | Eastern Region | Central Region    | Total per Year |
 |------------------|--------------------|--------------------|----------------|----------------|-------------------|----------------|
