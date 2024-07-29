@@ -4,7 +4,8 @@
 * ToDos:
 - [ ] Cleaning up Code
 - [ ] Add refined set data collection code
-Note our work is based on community involvement, be patient with students, postdocs and faculty that are volunteering parts of their times to build this repository.
+
+* Note our work is based on community involvement, be patient with students, postdocs and faculty that are volunteering parts of their times to build this repository.
 
 ## Work Phases
 * Search queries generation
