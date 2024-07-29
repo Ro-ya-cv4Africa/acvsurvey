@@ -2,8 +2,9 @@
 [Paper](https://arxiv.org/abs/2401.11617)
 
 * ToDos:
-- [ ] Cleaning up Code
-- [ ] Add refined set data collection code
+- [ ] Cleaning up Code.
+- [ ] Add refined set data collection code.
+- [ ] Cleaning up the three sets of data and corresponding metadata.
 
 * Note our work is based on community involvement, be patient with students, postdocs and faculty that are volunteering parts of their times to build this repository.
 
@@ -85,12 +86,13 @@
 ## References
 
 Please cite our paper if you find it useful in your research
-
+* Conditionally accepted in Journal of AI Research, Fairness and Bias in AI special issue.
+  
 ```
 @article{omotayo2024survey,
   title={The State of Computer Vision Research in Africa},
   author={Omotayo, Abdul-Hakeem and Mbilinyi, Ashery and Ismaila, Lukman and Turki, Houcemeddine and Abdien, Mahmoud and Gamal, Karim and Tondji, Idriss and Pimi, Yvan and Etori, Naome A and Matar, Marwa M and others and Mennatullah S},
-  journal={Journal of AI Research, Fairness and Bias in AI special issue},
+  journal={arXiv preprint arXiv:2401.11617},
   year={2024}
 }
 ```
