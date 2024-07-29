@@ -2,8 +2,8 @@
 [Paper](https://arxiv.org/abs/2401.11617)
 
 * ToDos:
-[] Cleaning up Code
-[] Add refined set data collection code
+- [ ] Cleaning up Code
+- [ ] Add refined set data collection code
 Note our work is based on community involvement, be patient with students, postdocs and faculty that are volunteering parts of their times to build this repository.
 
 ## Work Phases
