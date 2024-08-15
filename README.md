@@ -86,7 +86,7 @@
 ## References
 
 Please cite our paper if you find it useful in your research
-* Conditionally accepted in Journal of AI Research, Fairness and Bias in AI special issue.
+* Accepted in Journal of AI Research, Fairness and Bias in AI special issue.
   
 ```
 @article{omotayo2024survey,
